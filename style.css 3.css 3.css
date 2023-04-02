@@ -1,0 +1,25 @@
+#best{
+			font-size: large;
+			text-align: center;
+			color:dark brown;
+		}
+		#home{
+			text-align: center;
+			color:dark brown;
+		}
+		p{
+			font-style: italic;
+			text-shadow: initial;
+			outline-color: currentColor;
+			color: darkred;
+			line-height: normal;
+			border: brown;
+		}
+		h2{
+			text-shadow: darkred;
+			text-align: center;
+			lighting-color: brown;
+		}
+		#world{
+			color: blue;
+		}
